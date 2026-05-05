@@ -1,7 +1,7 @@
 const { Client } = require('discord.js-selfbot-v13');
 
 const client = new Client();
-const TOKEN = "MTUwMDY3MzM3OTM1Mzc1OTc1NQ.GyVv0A.Kv_-PjurN4HIg9A-2vZon8VRmArwiOneiIYgoE";
+const TOKEN = "MTUwMDQ4NzA1MDM1NTU0MDEyMA.G_0F9e.LAwBJJ6vojo-FKfPJdvf_fJzDzYyS9XiLUVF08";
 
 // ============ KANAŁY NA KTÓRYCH BOT NASŁUCHUJE ============
 const KANALY = [
